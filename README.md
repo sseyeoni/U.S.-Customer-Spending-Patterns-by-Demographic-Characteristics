@@ -6,3 +6,19 @@
 * **Data Sources**: 
     * **External**: Census data (income levels, education, occupation, household composition, ethnicity distribution, etc.)
 
+### :pencil: Assumptions
+
+1. **Age**
+2. **Income Level**
+3. **Household Composition**
+4. **Education Level**
+5. **Region / Location**
+6. **Ethnicity**
+
+
+### :computer: Analysis
+
+*  **Region-Based Customer Segmentation**
+
+
+
