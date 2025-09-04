@@ -7,7 +7,6 @@
     * **External**: Census data (income levels, education, occupation, household composition, ethnicity distribution, etc.)
 
 ### :pencil: Assumptions
-
     **1. Age**   
     **2. Income Level**   
     **3. Household Composition**   
