@@ -8,17 +8,17 @@
 
 ### :pencil: Assumptions
 
-**1. Age**  
+   **1. Age**  
 
-**2. Income Level**  
+   **2. Income Level**  
 
-**3. Household Composition**  
+   **3. Household Composition**  
 
-**4. Education Level**  
+   **4. Education Level**  
 
-**5. Region / Location**  
+   **5. Region / Location**  
 
-**6. Ethnicity**  
+   **6. Ethnicity**  
 
 
 
